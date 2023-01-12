@@ -1,0 +1,14 @@
+.login{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login button{
+    font-size: 20px;
+    padding: 10px;
+    color: #FFF;
+    background-color: #1871ED;
+    border-radius: 10px;
+}
